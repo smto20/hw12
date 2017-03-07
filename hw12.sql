@@ -31,3 +31,5 @@ INSERT INTO	products (product_name, department_name, price_to_customer, stock_qu
 	values ('Gold Ring', 'jewelry', 12.00, 5);
 INSERT INTO	products (product_name, department_name, price_to_customer, stock_quantity)
 	values ('Side Purse', 'accessories', 60.00, 3);
+
+SELECT * FROM products;
