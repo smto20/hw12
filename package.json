@@ -1,0 +1,27 @@
+{
+  "name": "bamazon-mysql",
+  "version": "0.1.0",
+  "description": "MySQL/node.js application",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "node bamazonCustomer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smto20/hw12.git"
+  },
+  "keywords": [
+    "node.js",
+    "MySQL"
+  ],
+  "author": "smto20",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smto20/hw12/issues"
+  },
+  "homepage": "https://github.com/smto20/hw12#readme",
+  "dependencies": {
+    "inquirer": "^1.0.3",
+    "mysql": "^2.11.1"
+  }
+}
